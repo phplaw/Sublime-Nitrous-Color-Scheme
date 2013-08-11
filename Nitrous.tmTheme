@@ -2,7 +2,7 @@
 <!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-  <key>name</key>
+	<key>name</key>
 	<string>Nitrous</string>
 	<key>settings</key>
 	<array>
@@ -541,6 +541,31 @@
 				<string>#8da6ce</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>html script tags</string>
+			<key>scope</key>
+			<string>entity.name.tag.script.html</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<!-- html script tag -->
+				<string>#8DA6CE</string>
+			</dict>
+		</dict>
+		<!-- end js -->
+		<dict>
+			<key>name</key>
+			<string>html style tags</string>
+			<key>scope</key>
+			<string>entity.name.tag.style.html</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#8DA6CE</string>
+			</dict>
+		</dict>
+		<!-- end html style -->
 		<dict>
 			<key>name</key>
 			<string>CSS @import</string>
