@@ -12,4 +12,6 @@ This is nitrous IDE theme for Sublime Text
 
 ![ScreenShot](http://i.imgur.com/gBqVKkx.png)
 
-> More further infomation, please contact me: phplaw at gmail dot com
+> More further infomation, please contact me: phplaw at gmail dot 
+
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=849426)
