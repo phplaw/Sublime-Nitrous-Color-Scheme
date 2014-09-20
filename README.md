@@ -1,13 +1,22 @@
-Sublime-Nitrous-Theme
+Sublime Text NetBeans Color Scheme
 =====================
 
-This is nitrous IDE theme for Sublime Text
+This is NetBeans Color Scheme for Sublime Text
+
+![Sublime Text NetBeans Theme](http://i.imgur.com/UHmb5ND.png)
+
+
+
+Sublime-Nitrous Color Scheme
+=====================
+
+This is nitrous IDE Color Scheme for Sublime Text
 
 #### How to install
 
 1. Browse Packages ...
-2. Copy Sublime Text Theme file `Nitrous.tmTheme` to this directory
-3. Back your Sublime Text, change current Color Scheme to Nitrous and enjoy new theme as IDE in nitrous IDE
+2. Copy Sublime Text Color Scheme file `Nitrous.tmTheme` to this directory
+3. Back your Sublime Text, change current Color Scheme to Nitrous and enjoy new Color Scheme as IDE in nitrous IDE
 4. If you want to see Nitrous IDE, you can register via link [https://www.nitrous.io/join/rMtbKyfZY18](https://www.nitrous.io/join/rMtbKyfZY18)
 
 ![ScreenShot](http://i.imgur.com/gBqVKkx.png)
